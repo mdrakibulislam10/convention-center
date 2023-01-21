@@ -1,0 +1,11 @@
+/* media query */
+
+@media screen and (max-width: 767px) {
+    .cc-package-sec-title-margin {
+        margin-bottom: -160px;
+    }
+
+    .cc-card-position {
+        top: 0;
+    }
+}
